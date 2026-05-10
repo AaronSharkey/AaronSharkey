@@ -2,4 +2,4 @@
 
 I'm currently working as a software engineer @ Demonware
 
-Check out my website @ shark3y.dev
+Check out my website @ www.shark3y.dev
